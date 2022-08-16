@@ -8,6 +8,8 @@ With this exercises students will improve file structuring faor later projects
 
 ## Getting Started
 
+For this exercise you need to practice file structuring by deciding the order of the files taking into consideration that this webapp will be hosted with github pages.
+
 ### Dependencies
 
 None 
@@ -27,4 +29,4 @@ Julian Vicente
 
 ## License
 
-This project is licensed under the [NO LICENCE!] License - 
+This project is licensed under the [MIT] License.
